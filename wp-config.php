@@ -25,7 +25,8 @@ define('DB_NAME', 'peartreewealth');
 /** MySQL database username */
 define('DB_USER', 'root');
 
-/** MySQL database password */
+/** MySQL database password empty
+ */
 define('DB_PASSWORD', '');
 
 /** MySQL hostname */
